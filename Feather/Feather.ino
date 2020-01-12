@@ -4,8 +4,8 @@
 #include <ArduinoOTA.h>
 #include <ESP8266WiFi.h>
 
-const char* ssid     = "SysPro";
-const char* password = "JockeMimmiFelixAnton";
+const char* ssid     = "WIFI NAME";
+const char* password = "WIFI PASSWORD";
 
 const char* host = "wifitest.adafruit.com";
 
